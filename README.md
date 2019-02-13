@@ -8,10 +8,6 @@ This is the Official website for the Ingressive Campus Community, Federal Univer
 [View site](https://akojif.github.io/icafuta) <br>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IcaFulokoja/icafulokoja.github.io/master/images/ingressive campus fulokoja.jpg"alt="ICA Logo">
-</p>
-
 # About Us
 <p>
   ICAFUTA is a platform for growth and development of future world-class developers, designers, CTOs, founders and CEOs, to learn from industry subject matter experts, share knowledge, network, build the community and gain from the many great opportunities attached to the program. <br> We are an active community of tech enthusiasts - including designers and developers committed to building brilliant innovative products. 
